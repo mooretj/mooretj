@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is T.J. and I am a relatively new software developer. I have been self learning for a while and have made the decision to enroll in a full time bootcamp to enhance my skills to a professional level.
 <!--
 **mooretj/mooretj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
